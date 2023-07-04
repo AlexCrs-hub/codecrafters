@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\codecrafters\User\obj\Debug\netcoreapp3.1\Repo.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\codecrafters\User\obj\Debug\netcoreapp3.1\Repo.AssemblyInfo.cs
+C:\Users\Alex\source\repos\codecrafters\User\obj\Debug\netcoreapp3.1\Repo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\codecrafters\User\bin\Debug\netcoreapp3.1\Repo.deps.json
+C:\Users\Alex\source\repos\codecrafters\User\bin\Debug\netcoreapp3.1\Repo.runtimeconfig.json
+C:\Users\Alex\source\repos\codecrafters\User\bin\Debug\netcoreapp3.1\Repo.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\codecrafters\User\bin\Debug\netcoreapp3.1\Repo.dll
+C:\Users\Alex\source\repos\codecrafters\User\obj\Debug\netcoreapp3.1\Repo.genruntimeconfig.cache
+C:\Users\Alex\source\repos\codecrafters\User\bin\Debug\netcoreapp3.1\Repo.pdb
+C:\Users\Alex\source\repos\codecrafters\User\obj\Debug\netcoreapp3.1\Repo.dll
+C:\Users\Alex\source\repos\codecrafters\User\obj\Debug\netcoreapp3.1\Repo.pdb
+C:\Users\Alex\source\repos\codecrafters\User\obj\Debug\netcoreapp3.1\Repo.csprojAssemblyReference.cache
