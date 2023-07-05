@@ -20,12 +20,12 @@ namespace codecrafters.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Login", "User");
         }
 
         public IActionResult Privacy()
         {
-            return View();
+            return RedirectToAction("Register", "User");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
