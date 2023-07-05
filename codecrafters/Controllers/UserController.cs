@@ -44,6 +44,7 @@ namespace codecrafters.Controllers
             userDto.Password = password;
             var user = new User() { Id = userDto.Id, Created = DateTime.Now, Update = DateTime.Now, UserName = userDto.Username, OneTimePassword = password };
             await _userManager.CreateAsync(user);
+            ModelState.AddModelError(nameof(UserDTO.Password), password);
             return View();
         }
 
